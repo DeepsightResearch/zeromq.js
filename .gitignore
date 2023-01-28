@@ -22,3 +22,5 @@ test/typings-compatibility/
 tsconfig.tsbuildinfo
 /docs-raw
 .DS_Store
+bin/
+windows/
